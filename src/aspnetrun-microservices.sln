@@ -13,7 +13,7 @@ Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{5ADEB485-2B2C-43D3-A9B4-DCA51760BB0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket.API", "..\sec\Services\Basket\Basket.API\Basket.API.csproj", "{D557DBFC-0742-4A24-A0CE-CECFD8EDA678}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket.API", "Services\Basket\Basket.API\Basket.API.csproj", "{D557DBFC-0742-4A24-A0CE-CECFD8EDA678}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
